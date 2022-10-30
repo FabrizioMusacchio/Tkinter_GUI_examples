@@ -1,6 +1,5 @@
 /.idea/*
 *.zarr
-*.txt
 *.npy
 *.arr
 *.gifcask
