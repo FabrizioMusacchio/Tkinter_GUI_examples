@@ -19,11 +19,36 @@ This is just a brief collection of some Tkinter GUI examples.
         pip install -r requirements.txt
         ```
 
-To run one of the scripts, simply execute, e.g.:
+To run one of the scripts, simply execute:
+
+```terminal
+python analog_clock.py
+```
+
+![img](GIF/analog_clocl.gif "Analog clock.")
+
+
+```terminal
+python digital_clock.py
+```
+
+![img](GIF/digital_clocl.gif "Digital clock.")
+
 
 ```terminal
 python coin_flip.py
 ```
+
+![img](GIF/coin_flip.gif "Coin flip.")
+
+
+```terminal
+python calculator.py
+```
+
+![img](GIF/calculator.gif "Scientific calculator.")
+
+
 
 ## Sources
 
