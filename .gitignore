@@ -1,0 +1,11 @@
+/.idea/*
+*.zarr
+*.txt
+*.npy
+*.arr
+*.gifcask
+*.png
+*.html
+*.xml
+/exclude/*
+/Tkinter_test_pip/*
